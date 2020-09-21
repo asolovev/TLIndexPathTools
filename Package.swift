@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "TLIndexPathTools",
     platforms: [
-        .iOS(.v9)
+        .iOS(.v10)
     ],
     products: [
         .library(name: "TLIndexPathTools",
